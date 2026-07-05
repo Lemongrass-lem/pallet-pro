@@ -11,7 +11,7 @@ export const usedPallets = [
     size: '1200×800',
     price: '1800 ₽',
     badge: 'used' as const,
-    image: 'palletBY/буПоддоны.jpg'
+    image: 'palletBY/palletBY.jpg'
   },
   {
     title: 'Паллет 1200×800',
