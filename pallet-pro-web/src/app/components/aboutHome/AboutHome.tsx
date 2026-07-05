@@ -37,7 +37,7 @@ export default function AboutHome() {
         <div className="flex flex-col gap-6">
           <div className="relative bg-zinc-100 rounded-2xl border border-zinc-200 aspect-[4/3] overflow-hidden">
             <Image
-              src="/test.jpg"
+              src="home/AboutHome.jpg"
               alt="Фото компании / склад"
               fill
               className="object-cover"

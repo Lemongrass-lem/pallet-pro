@@ -5,9 +5,9 @@ import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 
 const images = [
-  "/test.jpg",
-  "/skolko-pallet-pomeshchaetsya-v-furu-minsk-belarus_1000x450_3d8.jpg",
-  "/main.jpg",
+  "home/home_1.jpg",
+  "home/home_2.jpg",
+  "home/home_3.jpg",
 ];
 
 export default function HeroSwiper() {
