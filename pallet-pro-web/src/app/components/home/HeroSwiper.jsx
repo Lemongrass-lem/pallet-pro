@@ -5,9 +5,9 @@ import useEmblaCarousel from "embla-carousel-react";
 import Autoplay from "embla-carousel-autoplay";
 
 const images = [
-  "home/home_1.jpg",
   "home/home_2.jpg",
   "home/home_3.jpg",
+  "home/home_1.jpg",
 ];
 
 export default function HeroSwiper() {
